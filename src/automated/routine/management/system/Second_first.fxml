@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="721.0" prefWidth="946.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.Second_firstController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2nd year 1st semester" wrappingWidth="345.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf7f7" layoutX="49.0" layoutY="175.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2101: Object Oriented Programming -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f4f4" layoutX="49.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2102: Object Oriented Programming Lab -1.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffbfb" layoutX="45.0" layoutY="275.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2103: Data Structure -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f6f6" layoutX="45.0" layoutY="320.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2104: Data Structure Lab -1.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f5f5" layoutX="50.0" layoutY="371.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2105: Digital Electronics -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf9f9" layoutX="45.0" layoutY="424.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2106: Digital Electronics Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffdfd" layoutX="45.0" layoutY="477.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2107: Mathematics III -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2eeee" layoutX="49.0" layoutY="529.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2109: Statistics -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fff9f9" layoutX="49.0" layoutY="578.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2111: Accounting -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffafa" layoutX="47.0" layoutY="633.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2112: Software Development Project-I and Industrial Tour -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

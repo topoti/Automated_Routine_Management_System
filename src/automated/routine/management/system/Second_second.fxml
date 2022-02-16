@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="875.0" prefWidth="946.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.Second_secondController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="81.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2nd year 2nd semester" wrappingWidth="372.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <GridPane>
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+      </GridPane>
+      <Text fill="#fcfafa" layoutX="66.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2201: Algorithm Designs and Programming -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcfcfc" layoutX="66.0" layoutY="212.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2202: Algorithm Designs and Programming Lab -1.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf8f8" layoutX="66.0" layoutY="266.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2203 : Computer Organization and Architecture -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf8f8" layoutX="68.0" layoutY="317.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2205: Computer Based Numerical Methods -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fff7f7" layoutX="67.0" layoutY="374.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2206: Computer Based Numerical Methods Lab -0.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f2f2" layoutX="70.0" layoutY="429.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2207: Object Oriented Analysis and Design -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fff7f7" layoutX="69.0" layoutY="482.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2208: Object Oriented Analysis and Design Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffafa" layoutX="68.0" layoutY="541.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2209: Digital System Design -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f2f2" layoutX="70.0" layoutY="598.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2210: Digital System Design Lab -0.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fff8f8" layoutX="70.0" layoutY="660.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2211: Mathematics IV -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="70.0" layoutY="715.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2214: Visual Programming Lab-I -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffbfb" layoutX="70.0" layoutY="767.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2215: Java and Mobile Application Development -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#eeeded" layoutX="70.0" layoutY="823.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE2216: Java and Mobile Application Development Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
