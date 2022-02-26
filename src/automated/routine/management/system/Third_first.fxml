@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="774.0" prefWidth="946.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.Third_firstController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3rd year 1st semester" wrappingWidth="345.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf7f7" layoutX="61.0" layoutY="155.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3101: Operation System -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2efef" layoutX="59.0" layoutY="212.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3102: Operation System Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffdfd" layoutX="59.0" layoutY="270.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3103 : Microprocessors and Assembly Language -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffefe" layoutX="61.0" layoutY="327.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3104 : Microprocessors and Assembly Language Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f5f5" layoutX="61.0" layoutY="378.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3105: Database Management System -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f4f4" layoutX="58.0" layoutY="432.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3106: Database Management System Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffefe" layoutX="63.0" layoutY="485.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3107: Software Engineering -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f5f5" layoutX="64.0" layoutY="543.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3109: Data Communication -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffefe" layoutX="61.0" layoutY="598.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3110: Data Communication Lab -0.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2eeee" layoutX="64.0" layoutY="652.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3111: Theory of Computing -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f3f3" layoutX="63.0" layoutY="708.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3116: Software Development Project-II and Industrial Tour -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
