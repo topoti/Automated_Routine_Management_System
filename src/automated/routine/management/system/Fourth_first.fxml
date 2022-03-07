@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="832.0" prefWidth="946.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.Fourth_firstController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4th year 1st semester" wrappingWidth="345.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <Text fill="#fffafa" layoutX="58.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4101: Artificial Intelligence and Expert System -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffdfd" layoutX="61.0" layoutY="215.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4102: Artificial Intelligence and Expert System Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="61.0" layoutY="272.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4103 : VLSI Design -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f4f4" layoutX="58.0" layoutY="328.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4104 : VLSI Design Lab-1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f7f7" layoutX="58.0" layoutY="381.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4105: Digital Image Processing ang Computer Vision -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f4f4" layoutX="58.0" layoutY="432.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4106: Digital Image Processing ang Computer Vision Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2f0f0" layoutX="58.0" layoutY="488.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4107: Network Routing and Switching -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcfafa" layoutX="61.0" layoutY="542.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4108: Network Routing and Switching Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f5f5" layoutX="61.0" layoutY="604.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4113: Cloud and Wireless Network -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f5f5" layoutX="61.0" layoutY="661.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4115: Digital Signal Processing -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f3f3" layoutX="61.0" layoutY="717.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4116: Digital Signal Processing Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffafa" layoutX="61.0" layoutY="769.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE5000: Research Project -(Continue)">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
