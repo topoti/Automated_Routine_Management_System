@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="332.0" prefWidth="533.0" style="-fx-background-color: #669999;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="automated.routine.management.system.ContactController">
+   <children>
+      <Text fill="#f2efef" layoutX="70.0" layoutY="71.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Contact With.....">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text fill="#f2efef" layoutX="70.0" layoutY="146.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Email: ts03351@gmail.com">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
