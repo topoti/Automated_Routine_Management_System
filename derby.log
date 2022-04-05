@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 02 20:30:27 GMT+06:00 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-af94-bb0a-0000067fac40 
+on database directory D:\Project\Automated Routine Management System - Copy\database with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/D:/Project/Automated%20Routine%20Management%20System%20-%20Copy/dist/run1291814315/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=D:\Project\Automated Routine Management System - Copy
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
