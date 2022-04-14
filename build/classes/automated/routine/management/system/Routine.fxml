@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="898.0" prefWidth="1940.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.RoutineController">
+   <children>
+      <TreeTableView fx:id="T1" layoutX="5.0" layoutY="-1.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col1" prefWidth="200.0" text="8:00-8:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t2" layoutX="205.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col2" prefWidth="200.0" text="9:00-9:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t3" layoutX="405.0" layoutY="-1.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col3" prefWidth="200.0" text="10:00-10:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t4" layoutX="605.0" layoutY="-1.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col4" prefWidth="200.0" text="11:00-11:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t5" layoutX="805.0" layoutY="-1.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col5" prefWidth="200.0" text="12:00-12:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t6" layoutX="1005.0" prefHeight="950.0" prefWidth="130.0">
+        <columns>
+          <TreeTableColumn fx:id="col6" prefWidth="130.0" text="BREAK" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t7" layoutX="1135.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col7" prefWidth="200.0" text="2:00-2:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t8" layoutX="1335.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col8" prefWidth="200.0" text="3:00-3:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t9" layoutX="1535.0" layoutY="-1.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col9" prefWidth="200.0" text="4:00-4:50" />
+        </columns>
+      </TreeTableView>
+      <TreeTableView fx:id="t10" layoutX="1735.0" prefHeight="950.0" prefWidth="200.0" style="-fx-background-color: #669999;">
+        <columns>
+          <TreeTableColumn fx:id="col10" prefWidth="200.0" text="5:00-5:50" />
+        </columns>
+      </TreeTableView>
+   </children>
+</AnchorPane>

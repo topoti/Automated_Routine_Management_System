@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="automated.routine.management.system.AboutController">
+   <children>
+      <Text fill="#f5f3f3" layoutX="64.0" layoutY="126.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Developed by: Topoti Sarkar " wrappingWidth="146.6708984375">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf9f9" layoutX="348.0" layoutY="126.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Supervised by: Lubna Yasmin Pinky" wrappingWidth="193.8193359375">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf9f9" layoutX="64.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="This Project is....">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

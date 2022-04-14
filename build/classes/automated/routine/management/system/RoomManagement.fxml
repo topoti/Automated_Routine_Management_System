@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="505.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="automated.routine.management.system.RoomManagementController">
+   <children>
+      <Text fill="#f5f3f3" layoutX="209.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Room Management">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Text>
+      <CheckBox layoutX="39.0" layoutY="123.0" mnemonicParsing="false" text="Room-214" textFill="#fcf9f9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </CheckBox>
+      <CheckBox layoutX="39.0" layoutY="181.0" mnemonicParsing="false" text="Room-215" textFill="#fcf9f9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </CheckBox>
+      <CheckBox layoutX="39.0" layoutY="243.0" mnemonicParsing="false" text="Lab-01" textFill="#fcf9f9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </CheckBox>
+      <CheckBox layoutX="39.0" layoutY="302.0" mnemonicParsing="false" text="Lab-02" textFill="#fcf9f9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </CheckBox>
+      <CheckBox layoutX="37.0" layoutY="360.0" mnemonicParsing="false" text="E-Lab" textFill="#fcf9f9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </CheckBox>
+      <CheckBox layoutX="37.0" layoutY="423.0" mnemonicParsing="false" text="2nd AB" textFill="#fcf9f9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </CheckBox>
+   </children>
+</AnchorPane>

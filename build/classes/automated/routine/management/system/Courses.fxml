@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.CoursesController">
+   <children>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="609.0" prefWidth="759.0" style="-fx-background-color: #669999;">
+         <children>
+            <CheckBox fx:id="choicebox1" layoutX="58.0" layoutY="194.0" mnemonicParsing="false" text="1st year 1st semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="choicebox3" layoutX="58.0" layoutY="248.0" mnemonicParsing="false" text="2nd year 1st semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <Label layoutX="41.0" layoutY="99.0" prefHeight="75.0" prefWidth="310.0" text="Please Select an Option . . !" textFill="#f2ecec">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Button fx:id="continueButton" layoutX="302.0" layoutY="480.0" mnemonicParsing="false" onAction="#nextpage" prefHeight="49.0" prefWidth="156.0" style="-fx-background-color: #301140;" text="Continue" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="CLOSED_HAND" />
+               </cursor>
+            </Button>
+            <Text fill="#fcf8f8" layoutX="268.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="View Courses" wrappingWidth="320.6708984375">
+               <font>
+                  <Font size="35.0" />
+               </font>
+            </Text>
+            <CheckBox fx:id="choicebox5" layoutX="61.0" layoutY="305.0" mnemonicParsing="false" text="3rd year 1st semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="choicebox2" layoutX="442.0" layoutY="194.0" mnemonicParsing="false" text="1st year 2nd semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="choicebox4" layoutX="442.0" layoutY="248.0" mnemonicParsing="false" text="2nd year 2nd semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="choicebox6" layoutX="442.0" layoutY="305.0" mnemonicParsing="false" text="3rd year 2nd semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="choicebox7" layoutX="63.0" layoutY="365.0" mnemonicParsing="false" text="4th year 1st semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="choicebox8" layoutX="442.0" layoutY="365.0" mnemonicParsing="false" text="4th year 2nd semester" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="25.0" />
+               </font>
+            </CheckBox>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

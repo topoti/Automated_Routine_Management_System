@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="330.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.TeacherPageController">
+   <children>
+      <Label layoutX="133.0" layoutY="43.0" text="Teacher's Page" textFill="#f8f5f5">
+         <font>
+            <Font name="Arial" size="26.0" />
+         </font>
+      </Label>
+      <HBox layoutX="27.0" layoutY="128.0" prefHeight="100.0" prefWidth="520.0">
+         <children>
+            <Button fx:id="courses" mnemonicParsing="false" onAction="#viewCourses" prefHeight="92.0" prefWidth="148.0" text="View Courses">
+               <font>
+                  <Font size="15.0" />
+               </font>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="teacher" mnemonicParsing="false" onAction="#viewTeachers" prefHeight="92.0" prefWidth="148.0" text="View Teachers">
+               <font>
+                  <Font size="15.0" />
+               </font>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="routine" mnemonicParsing="false" onAction="#viewRoutine" prefHeight="92.0" prefWidth="148.0" text="View Routine">
+               <font>
+                  <Font size="15.0" />
+               </font>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

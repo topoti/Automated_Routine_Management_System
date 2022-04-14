@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="626.0" prefWidth="883.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.Fourth_secondController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4th year 2nd semester" wrappingWidth="345.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f7f7" layoutX="59.0" layoutY="150.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4201: Computer Graphics and Animation -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f7f7" layoutX="59.0" layoutY="211.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4202: Computer Graphics and Animation Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f7f7" layoutX="59.0" layoutY="268.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4203 : Neural Networks and Fuzzy System -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f3f3" layoutX="59.0" layoutY="324.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4204 : Neural Networks and Fuzzy System Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f8f8" layoutX="59.0" layoutY="377.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4205: Distributed Operating System -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2f0f0" layoutX="64.0" layoutY="433.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4206: Distributed Operating System Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f6f6" layoutX="64.0" layoutY="487.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE4207: Data Mining -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2efef" layoutX="64.0" layoutY="543.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE5000: Research Project -4.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

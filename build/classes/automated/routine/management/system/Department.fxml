@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="792.0" prefWidth="658.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.DepartmentController">
+   <children>
+      <Label layoutX="240.0" layoutY="48.0" text="View Departments" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="115.0" prefHeight="36.0" prefWidth="472.0" text="1. Computer Science and Engineering" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="158.0" prefHeight="36.0" prefWidth="519.0" text="2. Information and Communiction Technology" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label alignment="BASELINE_LEFT" layoutX="48.0" layoutY="245.0" prefHeight="36.0" prefWidth="587.0" text="4. Environmental Science and Resource Management" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="281.0" prefHeight="21.0" prefWidth="472.0" text="5. Criminology and Police Science" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="324.0" prefHeight="36.0" prefWidth="506.0" text="6. Biotechnology and Genetic Engineering" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="370.0" prefHeight="36.0" prefWidth="506.0" text="7. Food Technology and Nutrition Science" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="57.0" layoutY="415.0" prefHeight="21.0" prefWidth="463.0" text="8. Business Administration" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="57.0" layoutY="457.0" prefHeight="21.0" prefWidth="463.0" text="9. Chemistry" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="201.0" prefHeight="21.0" prefWidth="430.0" text="3. Textile Engineering" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="56.0" layoutY="501.0" prefHeight="21.0" prefWidth="483.0" text="10. Physics" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="56.0" layoutY="548.0" prefHeight="21.0" prefWidth="483.0" text="11. Statistics" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="592.0" prefHeight="21.0" prefWidth="519.0" text="12. Mathematics" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="53.0" layoutY="634.0" prefHeight="36.0" prefWidth="553.0" text="13. Pharmacy" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="55.0" layoutY="678.0" text="14. Biochemistry and Molecular Biology" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+      <Label layoutX="55.0" layoutY="721.0" text="15. Economics" textAlignment="JUSTIFY" textFill="#f2f0f0">
+         <font>
+            <Font size="25.0" />
+         </font></Label>
+   </children>
+</AnchorPane>

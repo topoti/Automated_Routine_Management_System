@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="739.0" prefWidth="946.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.Third_secondController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3rd year 2nd semester" wrappingWidth="345.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="58.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3201: Compiler Design -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2f0f0" layoutX="57.0" layoutY="213.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3202: Compiler Design Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2eeee" layoutX="57.0" layoutY="264.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3203 : Computer Network -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2eded" layoutX="57.0" layoutY="321.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3204 : Computer Network Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f4f4" layoutX="53.0" layoutY="380.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3205: Computer Phripheral and Interfacing -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf9f9" layoutX="58.0" layoutY="431.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3206: Computer Phripheral and Interfacing Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f8f8" layoutX="58.0" layoutY="486.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3208: Relational Database Management System Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f7f7" layoutX="61.0" layoutY="543.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3209: Multimedia and Web Engineering -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f5f3f3" layoutX="57.0" layoutY="600.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3210: Multimedia and Web Engineering Lab-1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf9f9" layoutX="61.0" layoutY="659.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE3211: Communication Engineering -2.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

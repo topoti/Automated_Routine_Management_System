@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="328.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.StudentProfileController">
+   <children>
+      <Label layoutX="114.0" layoutY="33.0" text="Student's Page" textFill="#fcfcfc">
+         <font>
+            <Font name="Arial" size="26.0" />
+         </font>
+      </Label>
+      <HBox layoutX="14.0" layoutY="107.0" prefHeight="100.0" prefWidth="537.0">
+         <children>
+            <Button fx:id="viewCourses" mnemonicParsing="false" onAction="#Courses" prefHeight="92.0" prefWidth="148.0" text="View Courses">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="viewTeachers" mnemonicParsing="false" onAction="#viewTeachers" prefHeight="92.0" prefWidth="148.0" text="View Teachers">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="viewRoutine" mnemonicParsing="false" onAction="#routine" prefHeight="92.0" prefWidth="148.0" text="View Routine">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

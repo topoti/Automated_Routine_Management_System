@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="582.0" prefWidth="946.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.First_firstController">
+   <children>
+      <Text fill="#fcf8f8" layoutX="215.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1st year 1st semester" wrappingWidth="345.6708984375">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Text>
+      <Text fill="#f2f0f0" layoutX="40.0" layoutY="161.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1101: Computer Basics and Programming Fundamentals -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fffefe" layoutX="43.0" layoutY="217.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1102: Computer Basics and Programming Fundamentals Lab -1.50">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2f2f2" layoutX="43.0" layoutY="268.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1103 : Electrical Circuit Analysis -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#fcf9f9" layoutX="43.0" layoutY="329.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1104 : Electrical Circuit Analysis Lab -1.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f2eded" layoutX="43.0" layoutY="390.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1105: Mathematics I -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f8f8" layoutX="43.0" layoutY="456.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1107: English -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text fill="#f8f7f7" layoutX="41.0" layoutY="516.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSE1109: Economics and Sociology -3.00">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

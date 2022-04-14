@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #669999;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="automated.routine.management.system.StudentLogInController">
+   <children>
+      <Text fill="#ebe7e7" layoutX="132.0" layoutY="71.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Please Enter Student Id">
+         <font>
+            <Font name="Arial" size="28.0" />
+         </font>
+      </Text>
+      <Label fx:id="LogInMessageId" layoutX="149.0" layoutY="316.0" prefHeight="23.0" prefWidth="168.0">
+         <font>
+            <Font name="Arial" size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="loginButtonLogin" layoutX="142.0" layoutY="220.0" mnemonicParsing="false" onMouseClicked="#Login" prefHeight="38.0" prefWidth="251.0" style="-fx-background-color: #230229;" text="Login" textFill="WHITE">
+         <font>
+            <Font name="Arial" size="20.0" />
+         </font>
+      </Button>
+      <TextField fx:id="studentId" layoutX="149.0" layoutY="136.0" prefHeight="50.0" prefWidth="237.0" promptText="Student Id :">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </TextField>
+   </children>
+</AnchorPane>
